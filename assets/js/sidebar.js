@@ -30,8 +30,6 @@ export function sidebar() {
         <a href="./movie-list.html" menu-close class="sidebar-link" onclick='getMovieList("with_original_language=en", "English")'>English</a>
 
         <a href="./movie-list.html" menu-close class="sidebar-link" onclick='getMovieList("with_original_language=hi", "Hindi")'>Hindi</a>
-        
-        <a href="./movie-list.html" menu-close class="sidebar-link" onclick='getMovieList("with_original_language=bn", "Bengali")'>Bengali</a>
 
       </div>
       <div class="sidebar-footer">
@@ -40,7 +38,7 @@ export function sidebar() {
         <br/>
         <img
           src="./assets/images/tmdb-logo.png"
-          alt="the movie database logo"
+          alt="tmdb logo"
           width="130"
           height="17"
         />
