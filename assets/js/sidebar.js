@@ -36,6 +36,7 @@ export function sidebar() {
         <p class="copyright">Made by 22cd3006</p>
         <a href="https://github.com/Esi-Disi" style="font-size:15px"><img src="https://img.icons8.com/ios-filled/25/ffffff/github.png" alt="github"/>Ayush Kashyap</a>
         <br/>
+        <p clas="copyright">with the help of</p>
         <img
           src="./assets/images/tmdb-logo.png"
           alt="tmdb logo"
